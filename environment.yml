@@ -23,4 +23,6 @@ dependencies:
       - jupyter
       - notebook
       - matplotlib
+      - xarray
+      - netcdf4
 prefix: /opt/conda
